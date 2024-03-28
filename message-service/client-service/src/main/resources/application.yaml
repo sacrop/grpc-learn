@@ -1,0 +1,5 @@
+grpc:
+  client:
+    client-message:
+      address: static://localhost:9091
+      negotiationType: plainText;
